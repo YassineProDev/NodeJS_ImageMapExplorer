@@ -62,7 +62,9 @@ We see that there is no marker.
 If the user wants to add a marker he must simply click on the city, and it
 form below is displayed.
 
-![3](https://github.com/YassineProDev/NodeJS_ImageMapExplorer/assets/120946916/703b432e-11ee-429b-8f73-68969669183a)
+![1](https://github.com/YassineProDev/NodeJS_ImageMapExplorer/assets/120946916/217aa27f-35a6-4e1d-877f-c1640b291582)
+
+
 
 The city name is populated by default.
 The user then has the possibility of choosing a disaster, adding a
