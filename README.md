@@ -45,3 +45,21 @@ INSERT INTO `point` VALUES
 - npm i
 - node index.js
 - in your navigator type 127.0.0.1:8000
+
+![1](https://github.com/YassineProDev/NodeJS_ImageMapExplorer/assets/120946916/6bd19427-d467-46ec-85fa-343d0b3c7216)
+
+
+![2](https://github.com/YassineProDev/NodeJS_ImageMapExplorer/assets/120946916/b51dbaa1-25c6-47a9-b0b0-7f1cf45f754a)
+
+
+![3](https://github.com/YassineProDev/NodeJS_ImageMapExplorer/assets/120946916/703b432e-11ee-429b-8f73-68969669183a)
+
+![4](https://github.com/YassineProDev/NodeJS_ImageMapExplorer/assets/120946916/f996fa97-98f8-4152-9ea5-466acf6a9cd8)
+
+
+![5](https://github.com/YassineProDev/NodeJS_ImageMapExplorer/assets/120946916/bf10f19c-991e-4856-9fa1-8a15e2759246)
+
+
+
+
+
