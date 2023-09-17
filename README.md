@@ -77,8 +77,8 @@ When the user validates their entry, a confirmation notification appears.
 
 Now, if we search for “Strasbourg”, the marker we just added will appear. In this context you can see the name of the city, the type of disaster, the description of the image (your name is below).
 
-![5](https://github.com/YassineProDev/NodeJS_ImageMapExplorer/assets/120946916/bf10f19c-991e-4856-9fa1-8a15e2759246)
 
+![stock-2](https://github.com/YassineProDev/NodeJS_ImageMapExplorer/assets/120946916/b6b7cd91-4cc0-4d90-85b2-dd2edabf4a3d)
 
 
 
