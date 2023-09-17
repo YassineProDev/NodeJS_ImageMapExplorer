@@ -46,16 +46,37 @@ INSERT INTO `point` VALUES
 - node index.js
 - in your navigator type 127.0.0.1:8000
 
+Lorsque l’utilisateur arrive sur le site, la carte est affichée, centrée sur sa
+localisation.
+
 ![1](https://github.com/YassineProDev/NodeJS_ImageMapExplorer/assets/120946916/6bd19427-d467-46ec-85fa-343d0b3c7216)
+
+When the user arrives on the site, the map is displayed, centered on his
+location.
+Here, we can see that the user who arrives on the site lives in Mulhouse.
+At the top of the page, the user has the option to search for a city, with the
+search bar, to view images or add them.
+In the example below, the user searches for the city of Strasbourg.
+We see that there is no marker.
 
 
 ![2](https://github.com/YassineProDev/NodeJS_ImageMapExplorer/assets/120946916/b51dbaa1-25c6-47a9-b0b0-7f1cf45f754a)
 
+If the user wants to add a marker he must simply click on the city, and it
+form below is displayed.
 
 ![3](https://github.com/YassineProDev/NodeJS_ImageMapExplorer/assets/120946916/703b432e-11ee-429b-8f73-68969669183a)
 
+The city name is populated by default.
+The user then has the possibility of choosing a disaster, adding a
+description as well as an image.
+Submission of the form is done by clicking on the “Add” button.
+The “Cancel” button allows you to cancel the entry and return to the map.
+When the user validates their entry, a confirmation notification appears.
+
 ![4](https://github.com/YassineProDev/NodeJS_ImageMapExplorer/assets/120946916/f996fa97-98f8-4152-9ea5-466acf6a9cd8)
 
+Now, if we search for “Strasbourg”, the marker we just added will appear. In this context you can see the name of the city, the type of disaster, the description of the image (your name is below).
 
 ![5](https://github.com/YassineProDev/NodeJS_ImageMapExplorer/assets/120946916/bf10f19c-991e-4856-9fa1-8a15e2759246)
 
