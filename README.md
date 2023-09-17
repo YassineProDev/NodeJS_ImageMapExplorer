@@ -46,19 +46,14 @@ INSERT INTO `point` VALUES
 - node index.js
 - in your navigator type 127.0.0.1:8000
 
-Lorsque l’utilisateur arrive sur le site, la carte est affichée, centrée sur sa
-localisation.
+When the user arrives on the site, the map is displayed, centered on their location.
 
 ![1](https://github.com/YassineProDev/NodeJS_ImageMapExplorer/assets/120946916/6bd19427-d467-46ec-85fa-343d0b3c7216)
 
-When the user arrives on the site, the map is displayed, centered on his
-location.
-Here, we can see that the user who arrives on the site lives in Mulhouse.
 At the top of the page, the user has the option to search for a city, with the
 search bar, to view images or add them.
 In the example below, the user searches for the city of Strasbourg.
 We see that there is no marker.
-
 
 ![2](https://github.com/YassineProDev/NodeJS_ImageMapExplorer/assets/120946916/b51dbaa1-25c6-47a9-b0b0-7f1cf45f754a)
 
