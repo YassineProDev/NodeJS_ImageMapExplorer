@@ -38,13 +38,15 @@ INSERT INTO `point` VALUES
 
 - Edit the .env file and enter your database password.
 
-# Setup the projetc
+# Setup the project
 
 - cd NodeJS_ImageMapExplorer
 - npm install
 - npm i
 - node index.js
 - in your navigator type 127.0.0.1:8000
+
+# Demo
 
 When the user arrives on the site, the map is displayed, centered on their location.
 
