@@ -54,7 +54,7 @@ When the user arrives on the site, the map is displayed, centered on their locat
 
 At the top of the page, the user has the option to search for a city, with the
 search bar, to view images or add them.
-In the example below, the user searches for the city of Strasbourg.
+In the example below, the user searches for the city of Marseille.
 We see that there is no marker.
 
 ![2](https://github.com/YassineProDev/NodeJS_ImageMapExplorer/assets/120946916/b51dbaa1-25c6-47a9-b0b0-7f1cf45f754a)
